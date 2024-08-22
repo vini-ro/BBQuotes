@@ -17,6 +17,7 @@
 		8166CB752C77ACC40018FC33 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB742C77ACC40018FC33 /* Quote.swift */; };
 		8166CB772C77AD470018FC33 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB762C77AD470018FC33 /* Character.swift */; };
 		8166CB792C77ADBD0018FC33 /* Deaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB782C77ADBD0018FC33 /* Deaths.swift */; };
+		8166CB7B2C77B3840018FC33 /* FetchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB7A2C77B3840018FC33 /* FetchService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		8166CB742C77ACC40018FC33 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 		8166CB762C77AD470018FC33 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		8166CB782C77ADBD0018FC33 /* Deaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deaths.swift; sourceTree = "<group>"; };
+		8166CB7A2C77B3840018FC33 /* FetchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			children = (
 				8166CB5F2C77A71B0018FC33 /* BBQuotesApp.swift */,
 				8166CB612C77A71B0018FC33 /* ContentView.swift */,
+				8166CB7A2C77B3840018FC33 /* FetchService.swift */,
 				8166CB742C77ACC40018FC33 /* Quote.swift */,
 				8166CB762C77AD470018FC33 /* Character.swift */,
 				8166CB782C77ADBD0018FC33 /* Deaths.swift */,
@@ -170,6 +173,7 @@
 				8166CB622C77A71B0018FC33 /* ContentView.swift in Sources */,
 				8166CB752C77ACC40018FC33 /* Quote.swift in Sources */,
 				8166CB602C77A71B0018FC33 /* BBQuotesApp.swift in Sources */,
+				8166CB7B2C77B3840018FC33 /* FetchService.swift in Sources */,
 				8166CB792C77ADBD0018FC33 /* Deaths.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
