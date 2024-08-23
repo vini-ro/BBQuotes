@@ -20,6 +20,7 @@
 		8166CB7B2C77B3840018FC33 /* FetchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB7A2C77B3840018FC33 /* FetchService.swift */; };
 		8166CB7D2C77C1F80018FC33 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB7C2C77C1F80018FC33 /* ViewModel.swift */; };
 		8166CB7F2C77CAE20018FC33 /* QuoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB7E2C77CAE20018FC33 /* QuoteView.swift */; };
+		81D4F9AB2C79032E00B69B99 /* CharacterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81D4F9AA2C79032E00B69B99 /* CharacterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		8166CB7A2C77B3840018FC33 /* FetchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchService.swift; sourceTree = "<group>"; };
 		8166CB7C2C77C1F80018FC33 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		8166CB7E2C77CAE20018FC33 /* QuoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteView.swift; sourceTree = "<group>"; };
+		81D4F9AA2C79032E00B69B99 /* CharacterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				8166CB5F2C77A71B0018FC33 /* BBQuotesApp.swift */,
 				8166CB612C77A71B0018FC33 /* ContentView.swift */,
 				8166CB7E2C77CAE20018FC33 /* QuoteView.swift */,
+				81D4F9AA2C79032E00B69B99 /* CharacterView.swift */,
 				8166CB7C2C77C1F80018FC33 /* ViewModel.swift */,
 				8166CB7A2C77B3840018FC33 /* FetchService.swift */,
 				8166CB742C77ACC40018FC33 /* Quote.swift */,
@@ -181,6 +184,7 @@
 				8166CB7F2C77CAE20018FC33 /* QuoteView.swift in Sources */,
 				8166CB602C77A71B0018FC33 /* BBQuotesApp.swift in Sources */,
 				8166CB7B2C77B3840018FC33 /* FetchService.swift in Sources */,
+				81D4F9AB2C79032E00B69B99 /* CharacterView.swift in Sources */,
 				8166CB792C77ADBD0018FC33 /* Deaths.swift in Sources */,
 				8166CB7D2C77C1F80018FC33 /* ViewModel.swift in Sources */,
 			);
