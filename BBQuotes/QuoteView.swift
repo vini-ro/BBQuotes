@@ -69,9 +69,9 @@ struct QuoteView: View {
                             .font(.title)
                             .foregroundStyle(.white)
                             .padding()
-                            .background(Color("BreakingBadGreen"))
+                            .background(Color("\(show.replacingOccurrences(of: " ", with: ""))Button"))
                             .clipShape(.rect(cornerRadius: 7))
-                            .shadow(color: Color("BreakingBadYellow"), radius: 2)
+                            .shadow(color: Color("\(show.replacingOccurrences(of: " ", with: ""))Shadow"), radius: 2)
                     }
                     Spacer(minLength: 95)
                 }
