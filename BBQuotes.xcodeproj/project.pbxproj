@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		814F9B892C7CB0CE00167690 /* sampleepisode.json in Resources */ = {isa = PBXBuildFile; fileRef = 814F9B882C7CB0CE00167690 /* sampleepisode.json */; };
 		8166CB602C77A71B0018FC33 /* BBQuotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB5F2C77A71B0018FC33 /* BBQuotesApp.swift */; };
 		8166CB622C77A71B0018FC33 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166CB612C77A71B0018FC33 /* ContentView.swift */; };
 		8166CB642C77A71D0018FC33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8166CB632C77A71D0018FC33 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		814F9B882C7CB0CE00167690 /* sampleepisode.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sampleepisode.json; sourceTree = "<group>"; };
 		8166CB5C2C77A71B0018FC33 /* BBQuotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BBQuotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8166CB5F2C77A71B0018FC33 /* BBQuotesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BBQuotesApp.swift; sourceTree = "<group>"; };
 		8166CB612C77A71B0018FC33 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 		8166CB6D2C77A7C20018FC33 /* SampleData */ = {
 			isa = PBXGroup;
 			children = (
+				814F9B882C7CB0CE00167690 /* sampleepisode.json */,
 				8166CB6F2C77A7F90018FC33 /* samplecharacter.json */,
 				8166CB6E2C77A7F90018FC33 /* sampledeath.json */,
 				8166CB702C77A7F90018FC33 /* samplequote.json */,
@@ -164,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8166CB672C77A71D0018FC33 /* Preview Assets.xcassets in Resources */,
+				814F9B892C7CB0CE00167690 /* sampleepisode.json in Resources */,
 				8166CB712C77A7F90018FC33 /* sampledeath.json in Resources */,
 				8166CB642C77A71D0018FC33 /* Assets.xcassets in Resources */,
 				8166CB732C77A7F90018FC33 /* samplequote.json in Resources */,
@@ -326,8 +330,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -355,8 +358,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
