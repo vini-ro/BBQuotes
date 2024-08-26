@@ -22,7 +22,7 @@ struct BBQuotesApp: App {
  ✅  Add El Camino tab
  ✅  Utiliza all character images on CharacterView
  ✅  On CharacterView, auto-scroll to bottom after status is shown
- - Fetch episode data
+ ✅ Fetch episode data
  ✅ Extend string to get rid of long image and color names
  ✅  Create static constants for show names
  */
