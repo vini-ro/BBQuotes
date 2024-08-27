@@ -34,8 +34,8 @@ Antes de começar, certifique-se de ter o seguinte instalado:
     - Selecione o simulador ou dispositivo físico desejado no Xcode.
     - Pressione `Cmd + R` para compilar e executar o aplicativo.
   
-![Screenshot da Tela Principal](BBQuotes/Assets.xcassets/Screenshot1.imageset/Screenshot 2024-08-27 at 16.18.38.jpg)
+![Screenshot da Tela Principal](BBQuotes/Assets.xcassets/Screenshot1.imageset/Image.png)
 
-![Screenshot da Tela Principal](BBQuotes/Assets.xcassets/Screenshot2.imageset/Screenshot 2024-08-27 at 16.19.13.jpg)
+![Screenshot da Tela Principal](BBQuotes/Assets.xcassets/Screenshot2.imageset/Image.png)
 
 ![Screenshot da Tela Principal](BBQuotes/Assets.xcassets/Screenshot3.imageset/Image.png)
