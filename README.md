@@ -1,5 +1,7 @@
 # BB Quotes
 
+> 📚 Projeto de estudo desenvolvido durante o curso de iOS com Swift e SwiftUI (Udemy).
+
 **BB Quotes** é um aplicativo desenvolvido em SwiftUI que permite aos usuários obter citações aleatórias, informações sobre personagens e episódios de séries populares, como *Breaking Bad* e *Better Call Saul*. O aplicativo foi criado para fornecer uma experiência imersiva com um design escuro e elementos visuais atraentes.
 
 ## Funcionalidades
@@ -21,12 +23,12 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seuusuario/bb-quotes.git
+    git clone https://github.com/vini-ro/BBQuotes.git
     ```
 
 2. **Abra o projeto no Xcode**:
     ```bash
-    cd bb-quotes
+    cd BBQuotes
     open BBQuotes.xcodeproj
     ```
 
